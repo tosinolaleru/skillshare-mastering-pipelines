@@ -1,6 +1,6 @@
 # Mastering Bitbucket Pipelines for Continuous Deployment and Continuous Integratio
 
-Repository for my Course "Mastering Bitbucket Pipelines for Continuous Deployment and Continuous Integration"
+Repositories for my Course "Mastering Bitbucket Pipelines for Continuous Deployment and Continuous Integration"
 
 A preview of the first 3 lessons of this course is on YouTube: https://www.youtube.com/playlist?list=PLOX_mQri1cCla7Y_eVCSwZtNjzzxyrlSf
 
